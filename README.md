@@ -1,5 +1,5 @@
 1. install vs2022 community edition
-2. with toolset v143, v142(vs2019)
+2. with toolset v143, v142(vs2019) and any win10.0.x sdk
 
  ![图片](https://user-images.githubusercontent.com/10056514/155878454-ef5ee3c7-e884-45cc-8054-d56f6fb8fdf5.png)
  
